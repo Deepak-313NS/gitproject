@@ -17,13 +17,16 @@
     background-color:transparent;
     color:green;  
 }
+
 body {
   font-family:sans-serif;
-  margin: 5px;
+  margin: 2px;
 }
 img {
-  display: block;
+ display: block;
   width: 100%;
+  border: black;
+  border-radius: 20px;
 }
 main {
   max-width: 900px;
