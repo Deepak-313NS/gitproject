@@ -1,4 +1,5 @@
-i have used html , css , bootstrap in this mini project:
+ First mini project on Phtotography webpage in which i have used html , css , bootstrap in this mini project. some features are as follows:
+          
   a. used bootstrap to make nav-bar and i also make it sticky so that my nav will be at the top of the screen always.
   b. some images are clicked by me so i uploaded them in imgbb which generated image link which i have used in the project.
   c. i used some images from upslash.com so that whenever my page is opened the images will change.
